@@ -1,0 +1,27 @@
+
+h1, h2 {
+  font-family: Lato;
+}
+
+div {
+ display: block;
+ 
+}
+
+td {
+  width: 20px;
+}
+
+td:hover {
+  cursor: pointer;
+}
+
+.selected {
+  background-color:green;
+  color: white;
+}
+
+.unselected {
+  background-color: coral;
+  color: white;
+}
